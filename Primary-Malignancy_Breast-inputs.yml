@@ -1,0 +1,45 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/female-primary-malignancy_breast---primary.py
+inputModule3:
+  class: File
+  path: python/primary-malignancy_breast-areola---primary.py
+inputModule4:
+  class: File
+  path: python/primary-malignancy_breast-nipple---primary.py
+inputModule5:
+  class: File
+  path: python/primary-malignancy_breast-quadrant---primary.py
+inputModule6:
+  class: File
+  path: python/primary-malignancy_breast-neoplasm---primary.py
+inputModule7:
+  class: File
+  path: python/other-primary-malignancy_breast---primary.py
+inputModule8:
+  class: File
+  path: python/ectopic-primary-malignancy_breast---primary.py
+inputModule9:
+  class: File
+  path: python/primary-malignancy_breast---primary.py
+inputModule10:
+  class: File
+  path: python/primary-malignancy_breast-mcomedocarcinoma---primary.py
+inputModule11:
+  class: File
+  path: python/primary-malignancy_breast-adenocarcinoma---primary.py
+inputModule12:
+  class: File
+  path: python/primary-malignancy_breast-mpaget---primary.py
+inputModule13:
+  class: File
+  path: python/primary-malignancy_breast---secondary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
